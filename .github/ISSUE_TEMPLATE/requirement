@@ -1,1 +1,26 @@
+---
+name: Krafa
+about: Skrá nýja hugbúnaðarkröfu
+title: "[Krafa] "
+labels: []
+assignees: []
+---
+
+## 📝 Lýsing
+> Hvað á kerfið að gera?
+
+## 🎯 Gerð kröfu
+- [ ] Virkni (functional)
+- [ ] Óvirkni (non-functional)
+- [ ] Viðmót (UI)
+- [ ] Öryggi (security)
+
+## ⬇️ Forgangur
+- [ ] MUST
+- [ ] SHOULD
+- [ ] COULD
+- [ ] WON’T
+
+## 🔗 Tengd mál eða skjöl
+- Tengd notendasaga eða kröfuhópur?
 
