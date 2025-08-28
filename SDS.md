@@ -28,10 +28,9 @@ Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við sí�
 - Hvernig þið gerðuð pull, commit og push 
 
 ## Ígrundun 
-- Í lok verkefnis gerið endurmat á verkefninu
+- Í lok verkefnis gerið endurmat á verkefninu: 
+    ### Hvað gekk vel í verkefninu 
 
-### Hvað gekk vel í verkefninu 
-
-### Hvað má bæta næst 
+    ### Hvað má bæta næst 
 
 
