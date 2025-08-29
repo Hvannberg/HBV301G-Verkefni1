@@ -12,4 +12,4 @@ Nemendur: Ýtið á **"Use this template"** til að búa til eigið repo út fr�
 - Búðu til Issue í repo-inu og tengdu Issue-ið við Project-ið
 - Farðu inn í Project-ið og settu issue-ið á rétt borð (Kanban)
 - Jafnóðum og þú bætir við, lýkur við kröfum (issue) eða alveg í lokin, bættu þeim við **SRS.md skrána** með því að vísa í hlekkinn
-- Skrifaðu SDS skrána og tengdu við SRS.md skrána 
+- Skrifaðu **SDS skrána** og tengdu við SRS.md skrána 
