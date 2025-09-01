@@ -14,7 +14,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | Issue | Umræða/atriði í GitHub sem tengist ákveðinni kröfu |
 
 ### 1.4 Tilvísanir
-- IEEE 830 Standard (fyrirmynd að uppbyggingu SRS)
+- ISO/IEC/IEEE 29148:2018  (fyrirmynd að uppbyggingu SRS)
 
 ---
 
