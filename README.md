@@ -16,7 +16,7 @@ Nemendur: Ýtið á **"Use this template"** til að búa til eigið repo út fr�
 - Skrifaðu **SDS skrána** og tengdu við SRS.md skrána 
 
 Til að tengja issue við útgáfustjórnun er gott að 
-- Búa til sér branch fyrir hvert issue eða flokk krafa (t.d. Notendakröfur). 
+- Búa til sérstakt branch fyrir hvert issue eða flokk krafna (t.d. Notendakröfur). 
 - Byrjaðu á því að búa til issue í GitHub sem lýsir kröfunni. 
 - Síðan býrðu til nýtt branch sem tengist því issue, til dæmis með nafni sem inniheldur númerið á issue-inu eða flokknum . 
 - Gerðu breytingarnar þínar á því branchi og notaðu commit-skilaboð sem vísa í issue-númerið, til dæmis „Tenging við launakerfi (#12)“. 
