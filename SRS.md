@@ -30,25 +30,25 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ## 3. Kröfur fyrir kerfið
 
 ### 3.1 Viðskiptakröfur
-| ID  | Lýsing | Issue |
+| ID  | Titill | Issue |
 |-----|--------|-------|
-| BR1 | [Lýsing á viðskiptakröfu] | [#12](../../issues/12) |
-| BR2 | [Lýsing á viðskiptakröfu] | [#13](../../issues/13) |
+| BR1 | [Titill á viðskiptakröfu] | [#12](../../issues/12) |
+| BR2 | [Titill á viðskiptakröfu] | [#13](../../issues/13) |
 
 ### 3.2 Kerfiskrafa
-| ID  | Lýsing | Issue |
+| ID  | Titill | Issue |
 |-----|--------|-------|
-| SR1 | [Lýsing á kerfiskröfu] | [#14](../../issues/14) |
+| SR1 | [Titill á kerfiskröfu] | [#14](../../issues/14) |
 
 ### 3.3 Fídusar (Features)
-| ID  | Lýsing | Issue |
+| ID  | Titill | Issue |
 |-----|--------|-------|
-| F1  | [Lýsing á fídusi] | [#15](../../issues/15) |
-| F2  | [Lýsing á fídusi] | [#16](../../issues/16) |
-| F3  | [Lýsing á fídusi] | [#17](../../issues/17) |
+| F1  | [Titill á fídusi] | [#15](../../issues/15) |
+| F2  | [Titill á fídusi] | [#16](../../issues/16) |
+| F3  | [Titill á fídusi] | [#17](../../issues/17) |
 
 ### 3.4 Notendakröfur
-| ID  | Lýsing | Fídus | Issue |
+| ID  | Titill | Fídus | Issue |
 |-----|--------|-------|-------|
 | UR1 | [Notendakrafa 1] | F1 | [#18](../../issues/18) |
 | UR2 | [Notendakrafa 2] | F1 | [#19](../../issues/19) |
@@ -58,7 +58,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | UR6 | [Notendakrafa 6] | F3 | [#23](../../issues/23) |
 
 ### 3.5 Virknikröfur
-| ID  | Lýsing | Notendakrafa | Issue |
+| ID  | Titill | Notendakrafa | Issue |
 |-----|--------|--------------|-------|
 | FR1 | [Virkni sem styður notendakröfu] | UR1 | [#24](../../issues/24) |
 | FR2 | [Önnur virkni] | UR1 | [#25](../../issues/25) |
@@ -80,13 +80,13 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | FR18 | [Virkni] | UR6 | [#41](../../issues/41) |
 
 ### 3.6 Viðskiptareglur
-| ID  | Lýsing | Issue |
+| ID  | Titill | Issue |
 |-----|--------|-------|
 | BRG1 | [Viðskiptaregla] | [#42](../../issues/42) |
 | BRG2 | [Viðskiptaregla] | [#43](../../issues/43) |
 
 ### 3.7 Óvirknikröfur
-| ID  | Lýsing | Issue |
+| ID  | Titill | Issue |
 |-----|--------|-------|
 | NFR1 | [Óvirknikrafa] | [#44](../../issues/44) |
 | NFR2 | [Óvirknikrafa] | [#45](../../issues/45) |
@@ -96,19 +96,19 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | NFR6 | [Óvirknikrafa] | [#49](../../issues/49) |
 
 ### 3.8 Gæðaeiginleikar
-| ID  | Lýsing | Issue |
+| ID  | Titill | Issue |
 |-----|--------|-------|
 | QR1 | [Gæðaeiginleiki] | [#50](../../issues/50) |
 | QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
 
 ### 3.9 Takmarkanir
-| ID  | Lýsing | Issue |
+| ID  | Titill | Issue |
 |-----|--------|-------|
 | C1 | [Takmörkun] | [#52](../../issues/52) |
 | C2 | [Takmörkun] | [#53](../../issues/53) |
 
 ### 3.10 Ytri skil (Interfaces)
-| ID  | Lýsing | Issue |
+| ID  | Titill | Issue |
 |-----|--------|-------|
 | IF1 | [Ytra skil] | [#54](../../issues/54) |
 | IF2 | [Ytra skil] | [#55](../../issues/55) |
