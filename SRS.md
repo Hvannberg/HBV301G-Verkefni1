@@ -14,7 +14,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | Issue | Umræða/atriði í GitHub sem tengist ákveðinni kröfu |
 
 ### 1.4 Tilvísanir
-- ISO/IEC/IEEE 29148:2018  (fyrirmynd að uppbyggingu SRS)
+- ISO/IEC/IEEE International Standard - Systems and software engineering -- Life cycle processes -- Requirements engineering," in ISO/IEC/IEEE 29148:2018(E) , vol., no., pp.1-104, 30 Nov. 2018, doi: 10.1109/IEEESTD.2018.8559686.ISO/IEC/IEEE 29
 
 ---
 
