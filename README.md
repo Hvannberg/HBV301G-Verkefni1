@@ -14,3 +14,10 @@ Nemendur: Ýtið á **"Use this template"** til að búa til eigið repo út fr�
 - Farðu inn í Project-ið og settu issue-ið á rétt borð (Kanban)
 - Jafnóðum og þú bætir við, lýkur við kröfum (issue) eða alveg í lokin, bættu þeim við **SRS.md skrána** með því að vísa í hlekkinn
 - Skrifaðu **SDS skrána** og tengdu við SRS.md skrána 
+
+Til að tengja issue við útgáfustjórnun er gott að 
+- Búa til sér branch fyrir hvert issue eða flokk krafa (t.d. Notendakröfur). 
+- Byrjaðu á því að búa til issue í GitHub sem lýsir kröfunni. 
+- Síðan býrðu til nýtt branch sem tengist því issue, til dæmis með nafni sem inniheldur númerið á issue-inu eða flokknum . 
+- Gerðu breytingarnar þínar á því branchi og notaðu commit-skilaboð sem vísa í issue-númerið, til dæmis „Tenging við launakerfi (#12)“. 
+- Þegar þú push-ar branchinu upp í GitHub geturðu opnað Pull Request og þar skrifað „Closes #12“ þannig að issue-ið lokist sjálfkrafa þegar pull requestið er samþykkt og sameinað inn í main.
