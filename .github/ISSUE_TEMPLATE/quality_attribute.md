@@ -12,4 +12,13 @@ assignees: []
 ## 🧪 Mælikvarði
 > Hvernig mælum við þetta?
 
+## 📐 Flokkun
+- [ ] Afköst
+- [ ] Áreiðanleiki
+- [ ] Notagildi
+- [ ] Nytsemi
+- [ ] Öryggi
+- [ ] Viðhald
+- [ ] Færanleiki
+- 
 ## 🔗 Tengsl við aðrar kröfur
