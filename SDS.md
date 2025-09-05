@@ -20,7 +20,7 @@ Hvert er meginmarkmiðið með kerfinu? (t.d. einfalda ferli, bæta yfirsýn, st
 Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við síðar.
 
 ## Tenging við SRS
-- Sjá nánari kröfuskipan í `SRS.md` (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
+- Sjá nánari kröfuskipan í [SRS](SRS.md) (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
 
 ## Verkaskipting
 - Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
