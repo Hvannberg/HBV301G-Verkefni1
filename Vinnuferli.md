@@ -1,5 +1,10 @@
 # Vinnuferli
 
+## Hópavinna og geymsla 
+
+Takið fram hverjir eru í hópnum, hver verkaskiptinging er, hvert Git repository er. 
+Hver og einn á að setja inn og viðhalda geymslunni (Git)
+
 ## Verkaskipting
 - Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
 - Hvernig þið rýnduð kröfurnar hjá hvert öðru
