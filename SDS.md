@@ -16,8 +16,14 @@ Hvert er meginmarkmiðið með kerfinu, t.d. hvaða vandamál það er að leysa
 **Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.  
 **Utan scope:** Hvað kerfið nær **ekki** yfir núna (til að halda fókus).
 
-## Ytri tenging 
-Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við síðar.
+## Samhengi kerfis (context) 
+Lýsið því umhverfi sem kerfið starfar í og skiptir máli fyrir kröfur þess.
+Teiknið mynd skv. verkefnislýsingu 
+
+- **Fólk og hagsmunaaðilar:** Hverjir hafa samskipti við kerfið eða hafa áhrif á það?
+- **Ytri kerfi og þjónustur:** Hvaða önnur kerfi eða þjónustur hefur kerfið samskipti við?
+- **Önnur atriði í umhverfinu:** Eru t.d. ferli, reglur eða skjöl sem hafa áhrif á kerfið?
+- **Mörk kerfisins:** Hvað tilheyrir kerfinu og hvað tilheyrir samhengi þess?
 
 ## Tenging við SRS
 - Sjá nánari kröfuskipan í [SRS](SRS.md) (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
@@ -29,13 +35,10 @@ Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við sí�
 
 ## Ígrundun 
 - Í lok verkefnis gerið endurmat á verkefninu: 
-    ### Hvað gekk vel í verkefninu 
-
-    ### Hvað má bæta næst 
+  - Hvað gekk vel í verkefninu 
+  - Hvað má bæta næst 
 
 ### Gagnsæisyfirlýsing um notkun gervigreindar
-
-Gagnsæisyfirlýsing um notkun gervigreindar skal fylgja verkefninu 
 
 Ef þið notið gervigreind við vinnslu verkefnisins skal koma fram:
 

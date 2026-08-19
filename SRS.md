@@ -4,8 +4,10 @@
 ### 1.1 Tilgangur
 Stutt lýsing á tilgangi kerfisins og hverju það á að skila.
 
-### 1.2 Umfang
-Hvað á kerfið að gera? Afmörkun verkefnisins.
+### 1.2 Umfang og mörk kerfisins
+
+Lýsið í stuttu máli hvað fellur innan marka kerfisins og hvað fellur utan þeirra.
+Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 
 ### 1.3 Skilgreiningar
 | Hugtak | Skýring |
@@ -48,14 +50,14 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | F3  | [Titill á fídusi] | [#17](../../issues/17) |
 
 ### 3.4 Notendakröfur
-| ID  | Titill | Fídus | Issue |
-|-----|--------|-------|-------|
-| UR1 | [Notendakrafa 1] | F1 | [#18](../../issues/18) |
-| UR2 | [Notendakrafa 2] | F1 | [#19](../../issues/19) |
-| UR3 | [Notendakrafa 3] | F2 | [#20](../../issues/20) |
-| UR4 | [Notendakrafa 4] | F2 | [#21](../../issues/21) |
-| UR5 | [Notendakrafa 5] | F3 | [#22](../../issues/22) |
-| UR6 | [Notendakrafa 6] | F3 | [#23](../../issues/23) |
+| ID  | Titill                  | Fídus | Issue |
+|-----|-------------------------|-------|-------|
+| UR1 | [Titill á notendakröfu] | F1 | [#18](../../issues/18) |
+| UR2 | [Titill á notendakröfu]        | F1 | [#19](../../issues/19) |
+| UR3 | [Titill á notendakröfu]        | F2 | [#20](../../issues/20) |
+| UR4 | [Titill á notendakröfu]        | F2 | [#21](../../issues/21) |
+| UR5 | [Titill á notendakröfu]        | F3 | [#22](../../issues/22) |
+| UR6 | [Titill á notendakröfu]        | F3 | [#23](../../issues/23) |
 
 ### 3.5 Virknikröfur
 | ID  | Titill | Notendakrafa | Issue |
