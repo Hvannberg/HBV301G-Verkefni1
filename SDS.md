@@ -10,7 +10,7 @@
 Stutt, ein-málsgreina lýsing á því **hvað kerfið er** og **fyrir hvern** það er.
 
 ## Tilgangur
-Hvert er meginmarkmiðið með kerfinu? (t.d. einfalda ferli, bæta yfirsýn, stytta afgreiðslutíma)
+Hvert er meginmarkmiðið með kerfinu, t.d. hvaða vandamál það er að leysa, hvaða árangri býstu við (t.d. einfalda ferli, bæta yfirsýn, stytta afgreiðslutíma)
 
 ## Afmörkun (Scope)
 **Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.  
@@ -33,4 +33,17 @@ Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við sí�
 
     ### Hvað má bæta næst 
 
+### Gagnsæisyfirlýsing um notkun gervigreindar
+
+Gagnsæisyfirlýsing um notkun gervigreindar skal fylgja verkefninu 
+
+Ef þið notið gervigreind við vinnslu verkefnisins skal koma fram:
+
+- hvaða gervigreindarverkfæri voru notuð,
+- hvaða kvaðningar (prompts) voru notaðar,
+- í hvaða tilgangi gervigreind var notuð,
+- hvernig þið breyttuð gervigreindarúttakinu og/eða nýttuð það?
+
+Þið skuluð einnig lýsa því yfir að þið hafið yfirfarið efni sem kemur frá gervigreind og berið ábyrgð á öllu efni sem þið skilið.
+Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
 
