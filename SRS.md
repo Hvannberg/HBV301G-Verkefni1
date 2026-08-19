@@ -60,32 +60,32 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 | UR6 | [Titill á notendakröfu]        | F3 | [#23](../../issues/23) |
 
 ### 3.5 Virknikröfur
-| ID  | Titill | Notendakrafa | Issue |
-|-----|--------|--------------|-------|
-| FR1 | [Virkni sem styður notendakröfu] | UR1 | [#24](../../issues/24) |
-| FR2 | [Önnur virkni] | UR1 | [#25](../../issues/25) |
-| FR3 | [Önnur virkni] | UR1 | [#26](../../issues/26) |
-| FR4 | [Virkni] | UR2 | [#27](../../issues/27) |
-| FR5 | [Virkni] | UR2 | [#28](../../issues/28) |
-| FR6 | [Virkni] | UR2 | [#29](../../issues/29) |
-| FR7 | [Virkni] | UR3 | [#30](../../issues/30) |
-| FR8 | [Virkni] | UR3 | [#31](../../issues/31) |
-| FR9 | [Virkni] | UR3 | [#32](../../issues/32) |
-| FR10 | [Virkni] | UR4 | [#33](../../issues/33) |
-| FR11 | [Virkni] | UR4 | [#34](../../issues/34) |
-| FR12 | [Virkni] | UR4 | [#35](../../issues/35) |
-| FR13 | [Virkni] | UR5 | [#36](../../issues/36) |
-| FR14 | [Virkni] | UR5 | [#37](../../issues/37) |
-| FR15 | [Virkni] | UR5 | [#38](../../issues/38) |
-| FR16 | [Virkni] | UR6 | [#39](../../issues/39) |
-| FR17 | [Virkni] | UR6 | [#40](../../issues/40) |
-| FR18 | [Virkni] | UR6 | [#41](../../issues/41) |
+| ID  | Titill                                      | Notendakrafa | Issue |
+|-----|---------------------------------------------|--------------|-------|
+| FR1 | [Virkni sem styður notendakröfu, titillinn] | UR1 | [#24](../../issues/24) |
+| FR2 | [Önnur virkni, titillinn]                   | UR1 | [#25](../../issues/25) |
+| FR3 | [Önnur virkni, titillinn]                   | UR1 | [#26](../../issues/26) |
+| FR4 | [Virkni]                                    | UR2 | [#27](../../issues/27) |
+| FR5 | [Virkni]                                    | UR2 | [#28](../../issues/28) |
+| FR6 | [Virkni]                                    | UR2 | [#29](../../issues/29) |
+| FR7 | [Virkni]                                    | UR3 | [#30](../../issues/30) |
+| FR8 | [Virkni]                                    | UR3 | [#31](../../issues/31) |
+| FR9 | [Virkni]                                    | UR3 | [#32](../../issues/32) |
+| FR10 | [Virkni]                                    | UR4 | [#33](../../issues/33) |
+| FR11 | [Virkni]                                    | UR4 | [#34](../../issues/34) |
+| FR12 | [Virkni]                                    | UR4 | [#35](../../issues/35) |
+| FR13 | [Virkni]                                    | UR5 | [#36](../../issues/36) |
+| FR14 | [Virkni]                                    | UR5 | [#37](../../issues/37) |
+| FR15 | [Virkni]                                    | UR5 | [#38](../../issues/38) |
+| FR16 | [Virkni]                                    | UR6 | [#39](../../issues/39) |
+| FR17 | [Virkni]                                    | UR6 | [#40](../../issues/40) |
+| FR18 | [Virkni]                                    | UR6 | [#41](../../issues/41) |
 
 ### 3.6 Viðskiptareglur
-| ID  | Titill | Issue |
-|-----|--------|-------|
-| BRG1 | [Viðskiptaregla] | [#42](../../issues/42) |
-| BRG2 | [Viðskiptaregla] | [#43](../../issues/43) |
+| ID  | Titill                   | Issue |
+|-----|--------------------------|-------|
+| BRG1 | [Viðskiptaregla, titill] | [#42](../../issues/42) |
+| BRG2 | [Viðskiptaregla, titill] | [#43](../../issues/43) |
 
 
 ### 3.7 Gæðaeiginleikar
@@ -101,16 +101,21 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 | C2 | [Takmörkun] | [#53](../../issues/53) |
 
 ### 3.9 Ytri skil (Interfaces)
-| ID  | Titill | Issue |
-|-----|--------|-------|
-| IF1 | [Ytra skil] | [#54](../../issues/54) |
-| IF2 | [Ytra skil] | [#55](../../issues/55) |
+| ID  | Titill      | Issue |
+|-----|-------------|-------|
+| IF1 | [Ytri skil] | [#54](../../issues/54) |
+| IF2 | [Ytri skil] | [#55](../../issues/55) |
 
 ---
 
 ## 4. Viðaukar
 ### 4.1 Orðalisti
 - Skilgreina lykilhugtök.
+
+  | Hugtak | Skilgreining |
+  |--------|--------------|
+  |        |              |
+  |        |              |
 
 ### 4.2 Samþykktir
 - Kennari: ____________________  
