@@ -1,4 +1,4 @@
-# 📦 Verkefni #1 - Hugbúnaðarkröfur 
+# 📦 Verkefni #1 - Tegundir krafna og samhengi 
 
 <!-- Fyllið inn í þessa kafla áður en verkefninu er skilað 
 
