@@ -89,22 +89,22 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 
 
 ### 3.7 Gæðaeiginleikar
-| ID  | Titill | Issue |
-|-----|--------|-------|
-| QR1 | [Gæðaeiginleiki] | [#50](../../issues/50) |
-| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
+| ID  | Titill                   | Issue |
+|-----|--------------------------|-------|
+| QR1 | [Gæðaeiginleiki, titill] | [#50](../../issues/50) |
+| QR2 | [Gæðaeiginleiki, titill] | [#51](../../issues/51) |
 
 ### 3.8 Takmarkanir
-| ID  | Titill | Issue |
-|-----|--------|-------|
-| C1 | [Takmörkun] | [#52](../../issues/52) |
-| C2 | [Takmörkun] | [#53](../../issues/53) |
+| ID  | Titill              | Issue |
+|-----|---------------------|-------|
+| C1 | [Takmörkun, titill] | [#52](../../issues/52) |
+| C2 | [Takmörkun, titill]       | [#53](../../issues/53) |
 
 ### 3.9 Ytri skil (Interfaces)
-| ID  | Titill      | Issue |
-|-----|-------------|-------|
-| IF1 | [Ytri skil] | [#54](../../issues/54) |
-| IF2 | [Ytri skil] | [#55](../../issues/55) |
+| ID  | Titill              | Issue |
+|-----|---------------------|-------|
+| IF1 | [Ytri skil, titill] | [#54](../../issues/54) |
+| IF2 | [Ytri skil, titill] | [#55](../../issues/55) |
 
 ---
 
