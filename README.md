@@ -1,6 +1,33 @@
-# 📦 SRS Template Repository
+# 📦 Verkefni #1 - Hugbúnaðarkröfur 
 
-Þetta geymsluform er sniðmát fyrir námskeiðið HBV301G Verkfræði kröfugreiningar. Notaðu þetta til að:
+<!-- Fyllið inn í þessa kafla áður en verkefninu er skilað 
+
+Heiti kerfis: 
+Höfundar: Nöfn nemenda 
+Stutt lýsing á kerfinu
+Stutt lýsing á innihaldi geymslunnar. 
+    - Lesendur eru viðskiptavinir og kaupendur, notendur, kerfishönnuðir, forritarar og prófarar. Einnig verkefnisstjórar og viðhaldsteymi. 
+
+Annars ráðið þið hvernig þið viljið lýsa geymslunni eða ná til lesenda 
+-->
+
+<!-- Nemendur fjarlægi eftirfarandi eftir því sem á við áður en verkefni er skilað 
+-->
+
+## Geymslan er í fjórum hlutum 
+
+- README, þessi skrá
+- SRS - Software Requirement Specifications
+- SDS - System Description Specification 
+- Vinnuferli 
+    - Hópavinna og geymsla
+    - Verkaskipting
+    - Ígrundun
+    - Gagnsæisyfirlýsing um notkun gervigreindar
+
+
+## Leiðbeiningar fyrir Template  
+Þessi geymsla er sniðmát fyrir námskeiðið HBV301G Verkfræði kröfugreiningar. Notaðu þetta til að:
 - Skrá hugbúnaðarkröfur sem Issues
 - Skilgreina og skrá SRS skjöl
 - Nota GitHub Projects til að fylgjast með stöðu verkefnis. Notið Kanban borð 
