@@ -32,10 +32,10 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 ## 3. Kröfur fyrir kerfið
 
 ### 3.1 Viðskiptakröfur
-| ID  | Titill                    | Kröfulýsing                         |
-|-----|---------------------------|-------------------------------------|
-| BR1 | [Titill á viðskiptakröfu] | [#12](business_requirements.md#br1) |
-| BR2 | [Titill á viðskiptakröfu] | [#13](../../issues/13)              |
+| ID                                  | Titill                    |
+|-------------------------------------|---------------------------|
+| [BR1](business_requirements.md#br1) | [Titill á viðskiptakröfu] |
+| [BR2](business_requirements.md#br2) | [Titill á viðskiptakröfu] |
 
 ### 3.2 Kerfiskrafa
 | ID  | Titill | Kröfulýsing               |
