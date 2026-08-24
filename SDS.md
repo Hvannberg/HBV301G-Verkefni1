@@ -26,4 +26,4 @@ Teiknið mynd skv. verkefnislýsingu
 - **Mörk kerfisins:** Hvað tilheyrir kerfinu og hvað tilheyrir samhengi þess?
 
 ## Tenging við SRS
-- Sjá nánari kröfuskipan í [SRS](SRS.md) (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
+- Sjá nánari kröfuskipan í [SRS](SRS/SRS.md) (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).

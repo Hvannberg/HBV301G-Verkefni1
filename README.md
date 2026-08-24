@@ -14,8 +14,7 @@ Annars ráðið þið hvernig þið viljið lýsa geymslunni eða ná til lesend
 <!-- Nemendur fjarlægi eftirfarandi eftir því sem á við áður en verkefni er skilað 
 -->
 
-## Geymslan er í fjórum hlutum 
-
+## Geymslan er í fjórum hlutum
 - README, þessi skrá
 - SRS - Software Requirement Specifications
 - SDS - System Description Specification 
@@ -25,26 +24,36 @@ Annars ráðið þið hvernig þið viljið lýsa geymslunni eða ná til lesend
     - Ígrundun
     - Gagnsæisyfirlýsing um notkun gervigreindar
 
+## Sniðmát fyrir issues 
+
+Undir .gihub/ISSUE_TEMPLATE eru sniðmát til að búa til issues 
 
 ## Leiðbeiningar fyrir Template  
 Þessi geymsla er sniðmát fyrir námskeiðið HBV301G Verkfræði kröfugreiningar. Notaðu þetta til að:
 - Skrá hugbúnaðarkröfur sem Issues
 - Skilgreina og skrá SRS skjöl
-- Nota GitHub Projects til að fylgjast með stöðu verkefnis. Notið Kanban borð 
+- Nota GitHub Projects til að fylgjast með stöðu verkefnis. Notið Kanban-borð 
 
 Nemendur: Ýtið á **"Use this template"** til að búa til eigið repo út frá þessum grunni.
 
-Þegar þú kemur inn í eigið repo geturðu gert: 
-- Búðu til Project sem tengist þessu repo og settu það upp með Kanban borði. 
+Þegar þú kemur inn repo fyrir verkefnið gerirðu: 
+- Búðu til Project sem tengist þessu repo og settu það upp með Kanban-borði. 
 - Gerðu félaga þinn að collaborator að repo-inu og að project-inu (Settings) 
-- Búðu til Issue í repo-inu og tengdu Issue-ið við Project-ið
-- Farðu inn í Project-ið og settu issue-ið á rétt borð (Kanban)
-- Jafnóðum og þú bætir við, lýkur við kröfum (issue) eða alveg í lokin, bættu þeim við **SRS.md skrána** með því að vísa í hlekkinn
-- Skrifaðu **SDS skrána** og tengdu við SRS.md skrána 
+- Skiptið með ykkur verkum (tasks)
 
-Til að tengja issue við útgáfustjórnun er gott að 
-- Búa til sérstakt branch fyrir hvert issue eða flokk krafna (t.d. Notendakröfur). 
-- Byrjaðu á því að búa til issue í GitHub sem lýsir kröfunni. 
-- Síðan býrðu til nýtt branch sem tengist því issue, til dæmis með nafni sem inniheldur númerið á issue-inu eða flokknum . 
-- Gerðu breytingarnar þínar á því branchi og notaðu commit-skilaboð sem vísa í issue-númerið, til dæmis „Tenging við launakerfi (#12)“. 
-- Þegar þú push-ar branchinu upp í GitHub geturðu opnað Pull Request og þar skrifað „Closes #12“ þannig að issue-ið lokist sjálfkrafa þegar pull requestið er samþykkt og sameinað inn í main.
+Vinnulagið fyrir verkefnið er eftirfarandi, sem er útskýrt nánar hér á eftir.
+
+**Task/Issue → Create a branch → vinna/commits → Pull Request (PR) → review → merge → issue lokast**
+
+Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann 
+- Búðu til nýtt **Issue**, t.d. "skrá viðskiptakröfur",  fyrir verkið sem á að vinna og úthlutaðu því á annan hvorn teymismeðliminn. Þegar issue-ið er búið til fær það númer, t.d. **#12**.
+- Settu issue-ið í réttan dálk á **Kanban-borði** verkefnisins.
+- Farðu í issue-ið (**#12**) á GitHub og veldu **Create a branch** undir *Development*.
+  Þannig tengist branch-ið sjálfkrafa við issue-ið.
+- Vinna skal verkið á branch-inu. Lýstu kröfum í viðeigandi kröfuskrá samkvæmt sniðmáti.
+- Þegar þú bætir við  kröfu skaltu bæta henni við **SRS.md** og vísa þar í kröfuna/kröfurnar í kröfuskránni.
+- Gerðu **commit og push** reglulega
+- Stofnaðu **Pull Request (PR)** þegar breytingarnar eru tilbúnar fyrir rýni og skrifaðu `Closes #12` í lýsingu PR svo issue **#12** lokist sjálfkrafa þegar PR-ið er samþykkt og sameinað við `main`
+- Teymisfélaginn  rýnir PR-ið. Að rýni lokinni er PR sameinað (merge) við main og issue-inu lokað.  
+
+Ljúktu við aðra þætti verkefnisins eins og SDS og Vinnuferlið með sambærilegum hætti, þ.e. að skipta með ykkur verkum með með issues, branches og PR 
