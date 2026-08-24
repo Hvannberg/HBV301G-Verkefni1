@@ -32,19 +32,28 @@ Undir .gihub/ISSUE_TEMPLATE eru sniðmát til að búa til issues
 Þessi geymsla er sniðmát fyrir námskeiðið HBV301G Verkfræði kröfugreiningar. Notaðu þetta til að:
 - Skrá hugbúnaðarkröfur sem Issues
 - Skilgreina og skrá SRS skjöl
-- Nota GitHub Projects til að fylgjast með stöðu verkefnis. Notið Kanban borð 
+- Nota GitHub Projects til að fylgjast með stöðu verkefnis. Notið Kanban-borð 
 
 Nemendur: Ýtið á **"Use this template"** til að búa til eigið repo út frá þessum grunni.
 
-Þegar þú kemur inn  repo fyrir verkefnið gerirðu: 
-- Búðu til Project sem tengist þessu repo og settu það upp með Kanban borði. 
+Þegar þú kemur inn repo fyrir verkefnið gerirðu: 
+- Búðu til Project sem tengist þessu repo og settu það upp með Kanban-borði. 
 - Gerðu félaga þinn að collaborator að repo-inu og að project-inu (Settings) 
 - Skiptið með ykkur verkum (tasks)
-- Búðu til nýtt **Issue**, t.d. "skrá viðskiptakröfur",  fyrir verkinu sem á að vinna og úthlutaðu því á annan hvorn teymismeðliminn.
-- Settu issue-ið í réttan dálk á **Kanban borði** verkefnisins.
-- Búðu til **branch** fyrir verkið 
+
+Vinnulagið fyrir verkefnið er eftirfarandi, sem er útskýrt nánar hér á eftir.
+
+**Task/Issue → Create a branch → vinna/commits → Pull Request (PR) → review → merge → issue lokast**
+
+Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann 
+- Búðu til nýtt **Issue**, t.d. "skrá viðskiptakröfur",  fyrir verkið sem á að vinna og úthlutaðu því á annan hvorn teymismeðliminn. Þegar issue-ið er búið til fær það númer, t.d. **#12**.
+- Settu issue-ið í réttan dálk á **Kanban-borði** verkefnisins.
+- Farðu í issue-ið (**#12**) á GitHub og veldu **Create a branch** undir *Development*.
+  Þannig tengist branch-ið sjálfkrafa við issue-ið.
 - Vinna skal verkið á branch-inu. Lýstu kröfum í viðeigandi kröfuskrá samkvæmt sniðmáti.
-- Þegar þú bætir við eða lýkur við kröfu skaltu bæta henni við **SRS.md** og vísa þar í kröfuna/kröfurnar í kröfuskránni.
-- Gerðu **commit og push** og stofnaðu **Pull Request (PR)** þegar breytingarnar eru tilbúnar fyrir rýni 
+- Þegar þú bætir við  kröfu skaltu bæta henni við **SRS.md** og vísa þar í kröfuna/kröfurnar í kröfuskránni.
+- Gerðu **commit og push** reglulega
+- Stofnaðu **Pull Request (PR)** þegar breytingarnar eru tilbúnar fyrir rýni og skrifaðu `Closes #12` í lýsingu PR svo issue **#12** lokist sjálfkrafa þegar PR-ið er samþykkt og sameinað við `main`
 - Teymisfélaginn  rýnir PR-ið. Að rýni lokinni er PR sameinað (merge) við main og issue-inu lokað.  
-- Skrifaðu **SDS skrána** og tengdu við SRS.md skrána 
+
+Ljúktu við aðra þætti verkefnisins eins og SDS og Vinnuferlið með sambærilegum hætti, þ.e. að skipta með ykkur verkum með með issues, branches og PR 
