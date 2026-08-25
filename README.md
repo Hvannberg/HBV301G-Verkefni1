@@ -43,7 +43,7 @@ Nemendur: Ýtið á **"Use this template"** til að búa til eigið repo út fr�
 
 Vinnulagið fyrir verkefnið er eftirfarandi, sem er útskýrt nánar hér á eftir.
 
-**Task/Issue → Create a branch → vinna/commits → Pull Request (PR) → review → merge → issue lokast**
+**Task/Issue (GitHub) → Create a branch (GitHub) → vinna/commits/push (local) → Pull Request (PR) (GitHub) → review (GitHub) → merge (GitHub) → issue lokast → pull (local)**
 
 Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann 
 - Búðu til nýtt **Issue**, t.d. "skrá viðskiptakröfur",  fyrir verkið sem á að vinna og úthlutaðu því á annan hvorn teymismeðliminn. Þegar issue-ið er búið til fær það númer, t.d. **#12**.
@@ -53,7 +53,7 @@ Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann
 - Vinna skal verkið á branch-inu. Lýstu kröfum í viðeigandi kröfuskrá samkvæmt sniðmáti.
 - Þegar þú bætir við  kröfu skaltu bæta henni við **SRS.md** og vísa þar í kröfuna/kröfurnar í kröfuskránni.
 - Gerðu **commit og push** reglulega
-- Stofnaðu **Pull Request (PR)** þegar breytingarnar eru tilbúnar fyrir rýni og skrifaðu `Closes #12` í lýsingu PR svo issue **#12** lokist sjálfkrafa þegar PR-ið er samþykkt og sameinað við `main`
+- Stofnaðu **Pull Request (PR)** á GitHub þegar breytingarnar eru tilbúnar fyrir rýni og skrifaðu `Closes #12` í lýsingu PR svo issue **#12** lokist sjálfkrafa þegar PR-ið er samþykkt og sameinað við `main`
 - Teymisfélaginn  rýnir PR-ið. Að rýni lokinni er PR sameinað (merge) við main og issue-inu lokað.  
 
 Ljúktu við aðra þætti verkefnisins eins og SDS og Vinnuferlið með sambærilegum hætti, þ.e. að skipta með ykkur verkum með með issues, branches og PR 
