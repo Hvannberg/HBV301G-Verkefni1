@@ -1,16 +1,28 @@
----
-name: Ytri skil
-about: Skrá kröfu um tengingu eða samskipti við utanaðkomandi aðila
-title: "[External Interface] "
-labels: [interface]
-assignees: []
----
+
+
+# Ytri tenging (External interface)
+
+Lýsing á tengingu milli hugbúnaðarkerfisins og notanda, annars hugbúnaðar, vélbúnaðar eða samskiptakerfis.
+
+
+<!--
+
+Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni 
+
+## UI-1
 
 ## 🔌 Skil
-> Hvaða kerfi, tæki eða notandi hefur þessi samskipti?
+> Við hvern eða hvað hefur kerfið samskipti?
 
-## 📥 Inntak / Úttak
-> Hvaða gögn, skipanir eða merki fara inn og út?
+## 📥 Inntak / úttak
+> Hvaða gögn, skipanir eða merki fara milli kerfisins og ytri aðilans?
 
-## 📚 Vörpun eða staðlar
-> Eru skilin stöðluð? JSON? REST? ISO? o.s.frv.
+## 📚 Samskipti og staðlar
+> Hvernig fara samskiptin fram? Eru tiltekin snið, samskiptareglur eða staðlar notaðir?
+
+ ## 📌 Tegund skila
+- [x ] Notendaviðmót (User interface)
+- [ ] Hugbúnaðarviðmót (Software interface)
+- [ ] Vélbúnaðarviðmót (Hardware interface)
+- [ ] Samskiptaviðmót (Communications interface)
+-->

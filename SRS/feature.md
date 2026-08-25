@@ -1,18 +1,23 @@
----
-name: Fídus
-about: Skrá valfrjálsan eiginleika (feature)
-title: "[Feature] "
-labels: [feature]
-assignees: []
----
+
+# Eiginleiki (Features)
+
+Samansafn skyldrar virkni sem veitir notanda virði og er lýst með virknikröfum.
+
+<!--
+
+Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni 
+
+## F-1
 
 ## ✨ Lýsing
-> Hver er eiginleikinn sem er til viðbótar við kjarnavirkni?
+> Hvaða getu eða þjónustu veitir kerfið notandanum?
 
-## ✅ Ástæða eða virði
-> Hvers vegna gæti verið gagnlegt að bæta þessu við?
+## ✅ Virði
+> Hvaða virði veitir þetta notandanum eða hvernig styður þetta við viðskiptamarkmið?
 
 ## ⚖️ Forgangur
 - [ ] Lágur
 - [ ] Miðlungs
 - [ ] Hár
+
+-->
