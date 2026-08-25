@@ -7,7 +7,7 @@ Samansafn skyldrar virkni sem veitir notanda virði og er lýst með virknikröf
 
 Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni 
 
-## FE-1
+## F-1
 
 ## ✨ Lýsing
 > Hvaða getu eða þjónustu veitir kerfið notandanum?

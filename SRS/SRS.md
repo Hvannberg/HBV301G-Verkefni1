@@ -13,7 +13,7 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 | Hugtak | Skýring |
 |--------|---------|
 | SRS | Software Requirements Specification |
-| Issue | Umræða/atriði í GitHub sem tengist ákveðinni kröfu |
+
 
 ### 1.4 Tilvísanir
 - ISO/IEC/IEEE International Standard - Systems and software engineering -- Life cycle processes -- Requirements engineering," in ISO/IEC/IEEE 29148:2018(E) , vol., no., pp.1-104, 30 Nov. 2018, doi: 10.1109/IEEESTD.2018.8559686.ISO/IEC/IEEE 29
@@ -31,6 +31,8 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 
 ## 3. Kröfur fyrir kerfið
 
+## 3. Kröfur fyrir kerfið
+
 ### 3.1 Viðskiptakröfur
 | ID                                        | Titill                    |
 |-------------------------------------------|---------------------------|
@@ -38,73 +40,72 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 | [BREQ-2](business_requirements.md#breq-2) | [Titill á viðskiptakröfu] |
 
 ### 3.2 Kerfiskrafa
-| ID  | Titill | Kröfulýsing               |
-|-----|--------|---------------------------|
-| SR1 | [Titill á kerfiskröfu] | [#14](../../issues/14)    |
+| ID                              | Titill                 |
+|---------------------------------|------------------------|
+| [SR-1](system_requirement.md#sr-1) | [Titill á kerfiskröfu] |
 
-### 3.3 Fídusar (Features)
-| ID | Titill            | Kröfulýsing            |
-|----|-------------------|------------------------|
-| F1 | [Titill á fídusi] | [#15](../../issues/15) |
-| F2 | [Titill á fídusi] | [#16](../../issues/16) |
-| F3 | [Titill á fídusi] | [#17](../../issues/17) |
+### 3.3 Eiginleikar (Features)
+| ID                     | Titill                 |
+|------------------------|------------------------|
+| [F-1](feature.md#f-1)  | [Titill á eiginleika]  |
+| [F-2](feature.md#f-2)  | [Titill á eiginleika]  |
+| [F-3](feature.md#f-3)  | [Titill á eiginleika]  |
 
 ### 3.4 Notendakröfur
-| ID  | Titill                  | Fídus | Kröfulýsing            |
-|-----|-------------------------|-------|------------------------|
-| UR1 | [Titill á notendakröfu] | F1 | [#18](../../issues/18) |
-| UR2 | [Titill á notendakröfu]        | F1 | [#19](../../issues/19) |
-| UR3 | [Titill á notendakröfu]        | F2 | [#20](../../issues/20) |
-| UR4 | [Titill á notendakröfu]        | F2 | [#21](../../issues/21) |
-| UR5 | [Titill á notendakröfu]        | F3 | [#22](../../issues/22) |
-| UR6 | [Titill á notendakröfu]        | F3 | [#23](../../issues/23) |
+| ID                                   | Titill                  | Eiginleiki |
+|--------------------------------------|-------------------------|------------|
+| [UR-1](user_requirement.md#ur-1)     | [Titill á notendakröfu] | F-1        |
+| [UR-2](user_requirement.md#ur-2)     | [Titill á notendakröfu] | F-1        |
+| [UR-3](user_requirement.md#ur-3)     | [Titill á notendakröfu] | F-2        |
+| [UR-4](user_requirement.md#ur-4)     | [Titill á notendakröfu] | F-2        |
+| [UR-5](user_requirement.md#ur-5)     | [Titill á notendakröfu] | F-3        |
+| [UR-6](user_requirement.md#ur-6)     | [Titill á notendakröfu] | F-3        |
 
 ### 3.5 Virknikröfur
-| ID   | Titill                                      | Notendakrafa | Kröfulýsing            |
-|------|---------------------------------------------|--------------|------------------------|
-| FR1  | [Virkni sem styður notendakröfu, titillinn] | UR1          | [#24](../../issues/24) |
-| FR2  | [Önnur virkni, titillinn]                   | UR1          | [#25](../../issues/25) |
-| FR3  | [Önnur virkni, titillinn]                   | UR1          | [#26](../../issues/26) |
-| FR4  | [Virkni]                                    | UR2          | [#27](../../issues/27) |
-| FR5  | [Virkni]                                    | UR2          | [#28](../../issues/28) |
-| FR6  | [Virkni]                                    | UR2          | [#29](../../issues/29) |
-| FR7  | [Virkni]                                    | UR3          | [#30](../../issues/30) |
-| FR8  | [Virkni]                                    | UR3          | [#31](../../issues/31) |
-| FR9  | [Virkni]                                    | UR3          | [#32](../../issues/32) |
-| FR10 | [Virkni]                                    | UR4          | [#33](../../issues/33) |
-| FR11 | [Virkni]                                    | UR4          | [#34](../../issues/34) |
-| FR12 | [Virkni]                                    | UR4          | [#35](../../issues/35) |
-| FR13 | [Virkni]                                    | UR5          | [#36](../../issues/36) |
-| FR14 | [Virkni]                                    | UR5          | [#37](../../issues/37) |
-| FR15 | [Virkni]                                    | UR5          | [#38](../../issues/38) |
-| FR16 | [Virkni]                                    | UR6          | [#39](../../issues/39) |
-| FR17 | [Virkni]                                    | UR6          | [#40](../../issues/40) |
-| FR18 | [Virkni]                                    | UR6          | [#41](../../issues/41) |
+| ID                                          | Titill                                      | Notendakrafa |
+|---------------------------------------------|---------------------------------------------|--------------|
+| [FR-1](functional_requirement.md#fr-1)      | [Virkni sem styður notendakröfu, titill]    | UR-1         |
+| [FR-2](functional_requirement.md#fr-2)      | [Önnur virkni, titill]                      | UR-1         |
+| [FR-3](functional_requirement.md#fr-3)      | [Önnur virkni, titill]                      | UR-1         |
+| [FR-4](functional_requirement.md#fr-4)      | [Virkni]                                    | UR-2         |
+| [FR-5](functional_requirement.md#fr-5)      | [Virkni]                                    | UR-2         |
+| [FR-6](functional_requirement.md#fr-6)      | [Virkni]                                    | UR-2         |
+| [FR-7](functional_requirement.md#fr-7)      | [Virkni]                                    | UR-3         |
+| [FR-8](functional_requirement.md#fr-8)      | [Virkni]                                    | UR-3         |
+| [FR-9](functional_requirement.md#fr-9)      | [Virkni]                                    | UR-3         |
+| [FR-10](functional_requirement.md#fr-10)    | [Virkni]                                    | UR-4         |
+| [FR-11](functional_requirement.md#fr-11)    | [Virkni]                                    | UR-4         |
+| [FR-12](functional_requirement.md#fr-12)    | [Virkni]                                    | UR-4         |
+| [FR-13](functional_requirement.md#fr-13)    | [Virkni]                                    | UR-5         |
+| [FR-14](functional_requirement.md#fr-14)    | [Virkni]                                    | UR-5         |
+| [FR-15](functional_requirement.md#fr-15)    | [Virkni]                                    | UR-5         |
+| [FR-16](functional_requirement.md#fr-16)    | [Virkni]                                    | UR-6         |
+| [FR-17](functional_requirement.md#fr-17)    | [Virkni]                                    | UR-6         |
+| [FR-18](functional_requirement.md#fr-18)    | [Virkni]                                    | UR-6         |
 
 ### 3.6 Viðskiptareglur
-| ID  | Titill                   | Kröfulýsing            |
-|-----|--------------------------|------------------------|
-| BRG1 | [Viðskiptaregla, titill] | [#42](../../issues/42) |
-| BRG2 | [Viðskiptaregla, titill] | [#43](../../issues/43) |
-
+| ID                                  | Titill                     |
+|-------------------------------------|----------------------------|
+| [BRG-1](business_rule.md#brg-1)     | [Viðskiptaregla, titill]   |
+| [BRG-2](business_rule.md#brg-2)     | [Viðskiptaregla, titill]   |
 
 ### 3.7 Gæðaeiginleikar
-| ID  | Titill                   | Kröfulýsing            |
-|-----|--------------------------|------------------------|
-| QR1 | [Gæðaeiginleiki, titill] | [#50](../../issues/50) |
-| QR2 | [Gæðaeiginleiki, titill] | [#51](../../issues/51) |
+| ID                                      | Titill                     |
+|-----------------------------------------|----------------------------|
+| [QA-1](quality_attribute.md#qa-1)       | [Gæðaeiginleiki, titill]   |
+| [QA-2](quality_attribute.md#qa-2)       | [Gæðaeiginleiki, titill]   |
 
 ### 3.8 Takmarkanir
-| ID  | Titill              | Kröfulýsing            |
-|-----|---------------------|------------------------|
-| C1 | [Takmörkun, titill] | [#52](../../issues/52) |
-| C2 | [Takmörkun, titill]       | [#53](../../issues/53) |
+| ID                              | Titill                |
+|---------------------------------|-----------------------|
+| [C-1](constraint.md#c-1)        | [Takmörkun, titill]   |
+| [C-2](constraint.md#c-2)        | [Takmörkun, titill]   |
 
 ### 3.9 Ytri skil (Interfaces)
-| ID  | Titill              | Kröfulýsing            |
-|-----|---------------------|------------------------|
-| IF1 | [Ytri skil, titill] | [#54](../../issues/54) |
-| IF2 | [Ytri skil, titill] | [#55](../../issues/55) |
+| ID                                      | Titill                |
+|-----------------------------------------|-----------------------|
+| [UI-1](external_interface.md#ui-1)      | [Ytri skil, titill]   |
+| [UI-2](external_interface.md#ui-2)      | [Ytri skil, titill]   |
 
 ---
 
