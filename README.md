@@ -45,6 +45,8 @@ Vinnulagið fyrir verkefnið er eftirfarandi, sem er útskýrt nánar hér á ef
 
 **Task/Issue (GitHub) → Create a branch (GitHub) → vinna/commits/push (local) → Pull Request (PR) (GitHub) → review (GitHub) → merge (GitHub) → issue lokast → pull á main (local)**
 
+Eftir merge má eyða vinnubranchinum á GitHub og local. Ef eyddur remote branch sést enn í local má nota git fetch --prune.
+
 Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann 
 - Búðu til nýtt **Issue**, t.d. "skrá viðskiptakröfur",  fyrir verkið sem á að vinna og úthlutaðu því á annan hvorn teymismeðliminn. Þegar issue-ið er búið til fær það númer, t.d. **#12**.
 - Settu issue-ið í réttan dálk á **Kanban-borði** verkefnisins.
