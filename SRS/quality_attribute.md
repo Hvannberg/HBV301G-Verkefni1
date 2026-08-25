@@ -1,24 +1,17 @@
----
-name: Gæðaeiginleiki
-about: Skrá kröfu um eigindi sem hafa áhrif á gæði kerfis
-title: "[Quality Attribute] "
-labels: [quality]
-assignees: []
----
+# Gæðaeiginleiki / gæðakrafa (Quality attribute)
 
-## 🌟 Lýsing
-> Hvaða eiginleiki hefur áhrif á upplifun, stöðugleika eða árangur?
+Lýsing á eiginleika eða gæðum sem kerfið þarf að hafa, t.d. varðandi afköst, öryggi, tiltækileika eða nothæfi.
+
+<!--
+
+Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
+
+## QA-1
+
+## 🧰 Lýsing
+> Hvaða eiginleika eða gæði þarf kerfið að hafa?
 
 ## 🧪 Mælikvarði
-> Hvernig mælum við þetta?
+> Hvernig er hægt að mæla eða staðfesta að krafan sé uppfyllt?
 
-## 📐 Flokkun
-- [ ] Afköst
-- [ ] Áreiðanleiki
-- [ ] Notagildi
-- [ ] Nytsemi
-- [ ] Öryggi
-- [ ] Viðhald
-- [ ] Færanleiki
-- 
-## 🔗 Tengsl við aðrar kröfur
+-->

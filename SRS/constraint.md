@@ -1,18 +1,19 @@
----
-name: Takmörkun
-about: Skrá ytri eða innri takmörkun
-title: "[Constraint] "
-labels: [constraint]
-assignees: []
----
+# Takmörkun (Constraints)
 
-## 🚧 Lýsing
-> Hvað má ekki gera, eða hvað setur skorður?
+Takmörkun sem þrengir valkosti hönnuða við gerð og þróun hugbúnaðarins.
 
-## 📌 Gerð takmörkunar
-- [ ] Tæknileg
-- [ ] Rekstrarleg
-- [ ] Reglugerðartengd
-- [ ] Fjárhagsleg
+<!--
+
+Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni 
+
+## UI-1
+
+## 🔒 Lýsing
+> Hvaða takmörkun setur þetta á hönnun eða þróun hugbúnaðarins?
+
+## 📝 Athugasemdir
+> Tengsl við aðrar kröfur eða upplýsingar.
 
 ## 🎯 Áhrif á hönnun eða þróun
+
+-->

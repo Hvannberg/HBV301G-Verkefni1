@@ -1,10 +1,12 @@
----
-name: Viðskiptaregla
-about: Skrá viðskiptareglu sem hefur áhrif á hegðun kerfisins
-title: "[Business Rule] "
-labels: [rule]
-assignees: []
----
+# Viðskiptareglur (Business Rules)
+
+Takmörkun sem þrengir valkosti hönnuða við gerð og þróun hugbúnaðarins.
+<!--
+ 
+Afritið sniðmátið hér fyrir neðan fyrir hverja viðskiptareglu og gefið henni næsta lausa auðkenni: BR-1, BR-2, BR-3, ... 
+Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requirements.md/#br1
+
+## BR-1
 
 ## 📜 Lýsing
 > Hver er reglan?
@@ -13,3 +15,4 @@ assignees: []
 > Af hverju er þessi regla til staðar? Hvaða áhrif hefur hún?
 
 ## 🔗 Tengsl við kröfur eða ferla
+-->
