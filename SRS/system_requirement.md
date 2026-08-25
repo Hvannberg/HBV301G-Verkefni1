@@ -1,15 +1,21 @@
----
-name: Kerfiskrafa
-about: Skrá kerfiskröfu (system requirement)
-title: "[System Requirement] "
-labels: [system]
-assignees: []
----
+
+# Kerfiskrafa (System Requirement)
+
+Krafa um kerfið sem heild, sem getur samanstaðið af mörgum kerfishlutum, t.d. hugbúnaði og vélbúnaði.
+
+<!--
+
+Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
+
+## SR-1
 
 ## 🛠️ Lýsing
-> Hvað á kerfið sjálft að gera?
+> Hvaða kröfu þarf kerfið sem heild að uppfylla?
 
-## 🧩 Skipting og umfang
-> Er þetta hluti af stærra kerfiseiginleika eða útfærslu?
+## 🧩 Kerfishlutar
+> Hvaða hluta heildarkerfisins varðar krafan, t.d. hugbúnað, vélbúnað eða fleiri en einn kerfishluta?
 
-## 🔗 Tengd virkni eða notendasaga
+## 🔗 Tengdar kröfur
+> Vísaðu í tengdar kröfur, ef við á.
+
+-->

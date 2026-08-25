@@ -1,10 +1,13 @@
----
-name: Notendakrafa
-about: Skrá kröfu sem lýsir þörf notanda
-title: "[User Requirement] "
-labels: [user]
-assignees: []
----
+
+# Notendakrafa (User Requirement)
+
+Markmið eða verkefni sem tiltekinn notendahópur þarf að geta framkvæmt með kerfinu.
+
+<!--
+
+Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
+
+## UR-1
 
 ## 👤 Notandi
 > Hvaða notendategund eða hópur hefur þessa þörf?
@@ -12,5 +15,7 @@ assignees: []
 ## 🎯 Krafa
 > Hvað þarf notandinn að geta gert?
 
-## 💬 Uppruni eða rödd notanda
-> Tilvitnun eða túlkun frá viðtali, könnun o.s.frv.
+## 💬 Uppruni
+> Hvaðan kemur þessi notendaþörf, t.d. úr viðtali, athugun, eigin þekkingu á viðfangsefninu eða annarri heimild?
+
+-->
