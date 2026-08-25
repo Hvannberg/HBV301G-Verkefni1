@@ -43,7 +43,7 @@ Nemendur: Ýtið á **"Use this template"** til að búa til eigið repo út fr�
 
 Vinnulagið fyrir verkefnið er eftirfarandi, sem er útskýrt nánar hér á eftir.
 
-**Task/Issue (GitHub) → Create a branch (GitHub) → vinna/commits/push (local) → Pull Request (PR) (GitHub) → review (GitHub) → merge (GitHub) → issue lokast → pull (local)**
+**Task/Issue (GitHub) → Create a branch (GitHub) → vinna/commits/push (local) → Pull Request (PR) (GitHub) → review (GitHub) → merge (GitHub) → issue lokast → pull á main (local)**
 
 Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann 
 - Búðu til nýtt **Issue**, t.d. "skrá viðskiptakröfur",  fyrir verkið sem á að vinna og úthlutaðu því á annan hvorn teymismeðliminn. Þegar issue-ið er búið til fær það númer, t.d. **#12**.
