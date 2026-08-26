@@ -73,7 +73,7 @@ Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann
 - viðeigandi sniðmáti sé fylgt,
 - auðkenni og tengingar við aðrar kröfur séu réttar.
 
-** Rýnandi**
+**Rýnandi**
 - Rýndu breytingarnar og skráðu athugasemdir (*comments*) í PR eftir þörfum. Þegar þú ert tilbúin/n að samþykkja breytingarnar skaltu velja **Approve**.
 
 Að lokinni rýni sameinar höfundur PR-ið (**merge**) við `main`.
