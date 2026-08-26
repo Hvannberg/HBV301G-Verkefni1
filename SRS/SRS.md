@@ -31,8 +31,6 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 
 ## 3. Kröfur fyrir kerfið
 
-## 3. Kröfur fyrir kerfið
-
 ### 3.1 Viðskiptakröfur
 | ID                                        | Titill                    |
 |-------------------------------------------|---------------------------|

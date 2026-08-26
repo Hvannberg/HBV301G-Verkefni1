@@ -7,7 +7,7 @@
 [Setjið inn nafn kerfis]
 
 ## Hvað er kerfið?
-Stutt, ein-málsgreina lýsing á því **hvað kerfið er** og **fyrir hvern** það er.
+Stutt lýsing á því **hvað kerfið er** og **fyrir hvern** það er.
 
 ## Tilgangur
 Hvert er meginmarkmiðið með kerfinu, t.d. hvaða vandamál það er að leysa, hvaða árangri býstu við (t.d. einfalda ferli, bæta yfirsýn, stytta afgreiðslutíma)
