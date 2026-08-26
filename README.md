@@ -60,7 +60,22 @@ Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann
 - Vinna skal verkið á branch-inu. Lýstu kröfum í viðeigandi kröfuskrá samkvæmt sniðmáti.
 - Þegar þú bætir við  kröfu skaltu bæta henni við **SRS.md** og vísa þar í kröfuna/kröfurnar í kröfuskránni.
 - Gerðu **commit og push** reglulega
-- Stofnaðu **Pull Request (PR)** á GitHub þegar breytingarnar eru tilbúnar fyrir rýni og skrifaðu `Closes #12` í lýsingu PR svo issue **#12** lokist sjálfkrafa þegar PR-ið er samþykkt og sameinað við `main`
-- Teymisfélaginn  rýnir PR-ið. Að rýni lokinni er PR sameinað (merge) við main og issue-inu lokað.  
+- Stofnaðu **Pull Request (PR)** á GitHub þegar breytingarnar eru tilbúnar fyrir rýni og skrifaðu `Closes #12` í lýsingu PR svo issue **#12** lokist sjálfkrafa þegar PR-ið er sameinað við `main`.
+- Teymisfélaginn rýnir PR-ið og samþykkir það (**Approve**). Að rýni lokinni er PR-ið sameinað (**merge**) við `main` og issue-inu lokað sjálfkrafa.
+
+### Rýni á Pull Request
+
+**Höfundur breytinga**
+
+Í lýsingu PR skaltu biðja teymisfélaga um að rýna sérstaklega hvort:
+- kröfurnar séu af réttri kröfutegund,
+- kröfurnar séu skýrar og ótvíræðar,
+- viðeigandi sniðmáti sé fylgt,
+- auðkenni og tengingar við aðrar kröfur séu réttar.
+
+** Rýnandi**
+- Rýndu breytingarnar og skráðu athugasemdir (*comments*) í PR eftir þörfum. Þegar þú ert tilbúin/n að samþykkja breytingarnar skaltu velja **Approve**.
+
+Að lokinni rýni sameinar höfundur PR-ið (**merge**) við `main`.
 
 Ljúktu við aðra þætti verkefnisins eins og SDS og Vinnuferlið með sambærilegum hætti, þ.e. að skipta með ykkur verkum með issues, branches og PR 
