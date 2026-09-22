@@ -1,6 +1,7 @@
 # Viðskiptareglur (Business Rules)
 
-Takmörkun sem þrengir valkosti hönnuða við gerð og þróun hugbúnaðarins.
+Stefna, viðmið, staðall eða regla sem stýrir ákveðnum þáttum í starfsemi. 
+Er ekki hugbúnaðarkrafa í sjálfu sér, en getur leitt til eða haft áhrif á hugbúnaðarkröfur.
 <!--
  
 Afritið sniðmátið hér fyrir neðan fyrir hverja viðskiptareglu og gefið henni næsta lausa auðkenni: BR-1, BR-2, BR-3, ... 
